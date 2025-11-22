@@ -1,11 +1,14 @@
-# Hi , I'm PRATHAM DOGRA
+# Hi , I'm Pratham Dogra....
 💡 Who Am I?
+
  A Computer Science student with a focus on Artificial Intelligence and Machine Learning — driven by curiosity, creativity, and a love for innovation.
  
 💻 What I Do
+
  I enjoy coding, designing, and bringing digital ideas to life. Whether it’s a sleek website, a smart AI model, or a cool creative project — I’m always up for a new challenge.
  
 🚀 My Vision
+
  To build intelligent, user-friendly solutions that make technology feel effortless — and to grow as a creator who blends logic with imagination.
 
 Email Me 👉 ✉️ **prathamdogra57@gmail.com** For Project or Anything Else.
