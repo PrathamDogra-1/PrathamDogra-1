@@ -1,7 +1,7 @@
 # Hi , I'm Pratham Dogra....
 💡 Who Am I?
 
- A Computer Science student with a focus on Artificial Intelligence and Machine Learning — driven by curiosity, creativity, and a love for innovation.
+A Computer Science student with a focus on Artificial Intelligence and Machine Learning — driven by curiosity, creativity, and a love for innovation.
  
 💻 What I Do
 
