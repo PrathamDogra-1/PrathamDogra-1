@@ -1,4 +1,4 @@
-# Hi, I'm Pratham Dogra....
+<h1 align="center">Hi, I'm <b>Pratham Dogra</b> 👋</h1>
 💡 Who Am I?
 
 A Computer Science student with a focus on Artificial Intelligence and Machine Learning — driven by curiosity, creativity, and a love for innovation.
