@@ -1,17 +1,36 @@
-<h1 align="center">Hi, I'm <b>Pratham Dogra</b> 👋</h1>
-💡 Who Am I?
+<h1 align="center">Hi, I'm <b>Pratham Dogra.....</b> 👋</h1>
 
-A Computer Science student with a focus on Artificial Intelligence and Machine Learning — driven by curiosity, creativity, and a love for innovation.
+<p align="center">
+A Computer Science student who just started his journey into tech with a focus on Artificial Intelligence and Machine Learning. <br>
+Driven by curiosity, creativity, and a love for innovation.
+</p>
+
+---
  
-💻 What I Do
+## 💻 What I'm Doing Right Now
 
- I enjoy coding, designing, and bringing digital ideas to life. Whether it’s a sleek website, a smart AI model, or a cool creative project — I’m always up for a new challenge.
+ - 🌱 I enjoy coding, designing, and bringing digital ideas to life.
+ - 📈 Leveling up my coding skills step by step.
+ - 🤖 Exploring AI, automation & new tech ideas.
+ - 🛠 Experimenting with creative digital projects.
+
+---
  
-🚀 My Vision
+## 🌟 My Vision
 
- To build intelligent, user-friendly solutions that make technology feel effortless — and to grow as a creator who blends logic with imagination.
+ -  To create intelligent, user-friendly digital solutions.
+ -  To blend logic + imagination into meaningful innovation.
+ -  To build tools that people not only use — but love using.
 
-Email Me 👉 ✉️ **prathamdogra57@gmail.com** For Project or Anything Else.
+---
+
+## 🚀 Tech Stack I'm Diving Into
+<img src="https://skillicons.dev/icons?i=c,python&theme=light" />
+
+---
+
+## Email Me 👇
+- ✉️ **prathamdogra57@gmail.com** For Project or Anything Else.
 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
