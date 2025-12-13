@@ -37,6 +37,7 @@ Driven by curiosity, creativity, and a love for innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pratham-dogra-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamdogra57@gmail.com) 
+#### Always Open to learning, collaborating and growing!
 
 
 <div align="center">
