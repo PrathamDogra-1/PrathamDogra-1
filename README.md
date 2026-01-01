@@ -25,7 +25,7 @@ Driven by curiosity, creativity, and a love for innovation.
 ---
 
 ## 🚀 Tech Stack I'm Diving Into
-<img src="https://skillicons.dev/icons?i=c,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css&theme=light" />
 
 ---
 
