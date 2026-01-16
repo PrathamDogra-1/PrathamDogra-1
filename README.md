@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm <b>Pratham Dogra.....</b> 👋</h1>
 
+<h1 align="center">Computer Science Student | AI & ML Enthusiast</h1>
+
 <p align="center">
 A Computer Science student who just started his journey into tech with a focus on Artificial Intelligence and Machine Learning. <br>
 Driven by curiosity, creativity, and a love for innovation.
